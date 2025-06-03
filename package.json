@@ -1,6 +1,26 @@
 {
   "dependencies": {
     "@types/express": "^5.0.2",
+    "ejs": "^3.1.10",
     "express": "^5.1.0"
-  }
+  },
+  "name": "lesson-04-bep-staticfiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P-Renato/Lesson-04-BEP-StaticFiles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P-Renato/Lesson-04-BEP-StaticFiles/issues"
+  },
+  "homepage": "https://github.com/P-Renato/Lesson-04-BEP-StaticFiles#readme"
 }
